@@ -11,7 +11,7 @@
   <img align="center" alt="JoaoPMGI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JoaoPMGI-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JoaoPMGI-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="JoaoPMGI-yoda" src="https://cdn.discordapp.com/attachments/648361867399659526/878316057536892988/art-animated.gif">
+  <img align="right" alt="JoaoPMGI-yoda" width="50px" height="50px" src="https://cdn.discordapp.com/attachments/648361867399659526/878316057536892988/art-animated.gif">
 </div>
   
 <div>
