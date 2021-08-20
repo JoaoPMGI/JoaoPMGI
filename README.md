@@ -17,10 +17,8 @@
   <img align="right" alt="JoaoPMGI-yoda" width="200px" height="200px" src="https://cdn.discordapp.com/attachments/648361867399659526/878316057536892988/art-animated.gif">
 </div>
   
-<div>
-  <br>
-</div>
-  
+---
+ 
   <div> 
   <a href="https://www.instagram.com/zjoao_pedroz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaop.mendesg21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
