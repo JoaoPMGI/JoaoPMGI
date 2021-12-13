@@ -35,6 +35,6 @@
  <br>
 
 <div style="display:flex; flex-direction: row-reverse; justify-content: space-between;">
-  <img align="center" alt="JoaoPMGI-yoda" width="300px" height="325px" src="https://cdn.discordapp.com/attachments/648361867399659526/878316057536892988/art-animated.gif">
+  <img align="center" alt="JoaoPMGI-yoda" width="200px" height="200px" src="https://cdn.discordapp.com/attachments/648361867399659526/878316057536892988/art-animated.gif">
  <img align="right" alt="JoaoPMGI-Meme" height="325px" width="600px" src="https://img.ifunny.co/images/b2178e2ae299b8764209e6cdaca6e190da074ac22587f5164b9318899524a750_1.jpg">
 </div>
