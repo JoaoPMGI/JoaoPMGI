@@ -7,7 +7,7 @@
   
 - :space_invader: Technology student;
 - :man_technologist: Tech lover;
-- :robot: Data Scientist and Back End Developer Jr.;
+- :robot: Data Scientist and Back-end Developer Jr.;
 - :man_student: Systems Analysis and Development student at UNINOVE - MEMORIAL;
 - :technologist: Student at Instituto PROA;
 - :video_game: Gamer :heart_on_fire:;
