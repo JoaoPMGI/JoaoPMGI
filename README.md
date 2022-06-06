@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I’m João Pedro Mendes Gomes ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi there, I’m João Pedro Mendes Gomes!</h1>
 </div>
 
 <h2 align="center" ><strong><em>I don’t get lucky. I make my own luck.</em></strong></h2>
